@@ -134,8 +134,7 @@ PROJECT_BANK/
 - Add role-based access control (admin vs. customer)  
 - Encrypt sensitive data at rest  
 - Integrate real-time notifications *(e.g., balance alerts)*  
-- Build a web front-end with Spring Boot and Thymeleaf  
-- Implement unit tests using JUnit and Mockito  
+- Build a web front-end with Spring Boot
 
 ---
 
