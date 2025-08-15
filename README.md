@@ -104,7 +104,21 @@ PROJECT_BANK/
 ---
 
 ## 🖼️ Screenshots
-*(Add your application screenshots here with brief captions for context.)*
+
+### Welcome Screen
+![Welcome Screen](https://github.com/user-attachments/assets/64233549-1493-4d5b-a2a1-1b70c3b73b7e)
+
+### Registration Form
+![Registration Form](https://github.com/user-attachments/assets/919dbd67-2e56-4040-acd2-e4650c3db507)
+
+### Login Window
+![Login Window](https://github.com/user-attachments/assets/e8c81cc7-3501-4a5f-a637-d1ac4404b8ae)
+
+### Login Success Popup
+![Login Success](https://github.com/user-attachments/assets/51b02fd6-e5db-410d-bd9b-f7d11e2c47d5)
+
+### Main Page Dashboard
+![Main Dashboard](https://github.com/user-attachments/assets/3895a5b2-a178-4f90-b50a-b4f8aa2a719c)
 
 ---
 
