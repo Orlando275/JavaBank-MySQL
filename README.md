@@ -27,7 +27,7 @@ This project is designed to showcase robust Java application development, databa
 
 2. Configure your Java project
 
-    - If you’re using Maven, add the MySQL Connector/J dependency in your `pom.xml`.
+    - If you’re using Maven, add the MySQL Connector dependency in your `pom.xml`.
     - If you’re using Gradle, include the connector in your `build.gradle`.
     - Or download the JDBC driver JAR of your choice, place it in a `lib/` directory, and add it to your classpath.
 
