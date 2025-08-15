@@ -138,8 +138,7 @@ PROJECT_BANK/
 - **Java Swing** (UI)  
 - **JDBC / MySQL Connector/J**  
 - **MySQL 8**  
-- **Maven** or **Gradle** (build tool)  
-- **Docker** *(optional containerization)*  
+- **Maven** or **Gradle**
 
 ---
 
